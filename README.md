@@ -1,4 +1,4 @@
-# Diamonds-dataset-ML-Python
+# Diamonds-dataset-ML
 
 In this practice I have worked with the diamonds dataset which allowed me to apply different machine learning techniques.
 
